@@ -20,8 +20,7 @@ The game check's your reflex and how fast you can respond to certain events.
 
 ## Installation
 
-Unzip the folder named bugz
-Connect your device and hit  'flutter run --release' from the unzipped folder
+Connect your device and hit  'flutter run --release' from the folder
 
 ## Platform
 
