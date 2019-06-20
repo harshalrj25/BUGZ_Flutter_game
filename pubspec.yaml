@@ -1,0 +1,39 @@
+name: bugz
+author: harshal jadhav
+description: Tap the beetle bug to score, and avoid butterflies
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flare_flutter:
+  audioplayers:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+  - family: wild
+    fonts:
+    - asset: fonts/wild.ttf
+
+  uses-material-design: true
+
+  assets:
+  - assets/fly.gif
+  - assets/bug.gif
+  - assets/leaf.gif
+  - assets/low.mp3
+  - assets/lake.flr
+  - assets/spark.gif
+  - assets/sub.flr
+  - assets/punch.mp3
+  - assets/loop.mp3
